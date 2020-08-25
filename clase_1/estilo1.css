@@ -1,0 +1,31 @@
+
+.primerClase {
+    background-color: red;
+}
+
+.segundaClase {
+    background-color: blue;
+}
+
+#darth {
+    font-size: 120%;
+}
+
+#luke {
+    font-style: italic;
+}
+
+.soldadoClass {
+    border-style: dashed;
+}
+
+.unidades {
+    text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
+
+
+
